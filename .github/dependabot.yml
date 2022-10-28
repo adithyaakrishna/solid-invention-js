@@ -1,0 +1,7 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: 
+  open-pull-requests-limit: 0
